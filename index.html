@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To do App</title>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap/js/bootstrap.min.js">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="bgimg">
+
+
+  
+<div class="container text-center" id="divimg">
+ <h1 class="header pt-3"style="font-size:50px; font-weight:bold;text-decoration:underline">To Do App <h6>(for 12 items)</h6></h1>
+<input class="mt-1" type="text" name="" placeholder="Enter to do" id="inputVal">
+<button onclick="addTodo()" class="mt-1 majorbtn">Add to List</button>
+<button onclick="deleteAll()" class="mt-1 my-3 majorbtn">Delete All</button>
+<div>
+    
+         <tr>
+<ul id="list">
+
+    
+</ul></tr> 
+
+
+
+</div>
+</div>
+ 
+    
+<nav class="center container mt-5">
+<div class="center" id="images">
+    <img onclick="changeImg(this)" id="extraimg" class="bottomimg" src="images/t2.jpg" alt="">
+    <img onclick="changeImg(this)" id="extraimg" class="bottomimg" src="images/d8.jpg" alt="">
+    <img onclick="changeImg(this)" id="extraimg" class="bottomimg" src="images/t7.jpg" alt="">
+    <img onclick="changeImg(this)" id="extraimg" class="bottomimg" src="images/d4.jpg" alt="">
+    <img onclick="changeImg(this)" id="extraimg" class="bottomimg" src="images/t1.jpg" alt="">
+   
+</div>
+</nav>
+   
+</body>
+<script src="app.js"></script>
+</html>

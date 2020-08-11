@@ -1,0 +1,31 @@
+[0727/225215.511:ERROR:process_info.cc(359)] UncheckedAllocate
+[0727/225856.830:ERROR:process_info.cc(359)] UncheckedAllocate
+[0727/225857.106:ERROR:process_memory_win.cc(73)] ReadMemory at 0xe7f01ff of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0727/225857.107:ERROR:process_memory_win.cc(73)] ReadMemory at 0xe7f0dff of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0727/225857.107:ERROR:process_memory_win.cc(73)] ReadMemory at 0xe8473d1 of 780 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0727/225857.107:ERROR:process_memory_win.cc(73)] ReadMemory at 0xe847951 of 1652 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0727/225857.108:ERROR:process_memory_win.cc(73)] ReadMemory at 0xe84c805 of 544 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0727/225857.108:ERROR:process_memory_win.cc(73)] ReadMemory at 0xe84cf3d of 548 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0806/215632.944:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/224602.501:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/232009.098:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/234457.390:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/234503.594:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/235339.382:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/235339.454:WARNING:process_subrange_reader.cc(81)] attempt to read outside of C:\Windows\System32\fwbase.dll range 0x0 + 0x0 (32) at range 0x0 + 0x40 (32)
+[0806/235339.454:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\fwbase.dll
+[0806/235339.454:WARNING:process_subrange_reader.cc(81)] attempt to read outside of C:\Windows\System32\fwbase.dll range 0x0 + 0x0 (32) at range 0x0 + 0x40 (32)
+[0806/235339.454:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\fwbase.dll
+[0806/235339.719:WARNING:process_subrange_reader.cc(81)] attempt to read outside of C:\Windows\System32\fwbase.dll range 0x0 + 0x0 (32) at range 0x0 + 0x40 (32)
+[0806/235339.722:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\fwbase.dll
+[0806/235339.817:WARNING:process_subrange_reader.cc(81)] attempt to read outside of C:\Windows\System32\fwbase.dll range 0x0 + 0x0 (32) at range 0x0 + 0x40 (32)
+[0806/235339.817:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\fwbase.dll
+[0806/235339.817:WARNING:process_subrange_reader.cc(81)] attempt to read outside of C:\Windows\System32\fwbase.dll range 0x0 + 0x0 (32) at range 0x0 + 0x40 (32)
+[0806/235339.817:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\fwbase.dll
+[0806/235339.835:WARNING:process_subrange_reader.cc(81)] attempt to read outside of C:\Windows\System32\fwbase.dll range 0x0 + 0x0 (32) at range 0x0 + 0x40 (32)
+[0806/235339.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\fwbase.dll
+[0806/235358.502:ERROR:process_memory_win.cc(73)] ReadMemory at 0x9870528 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0806/235358.503:ERROR:process_memory_win.cc(73)] ReadMemory at 0x9871668 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0806/235410.892:ERROR:process_info.cc(359)] UncheckedAllocate
+[0806/235410.930:ERROR:process_info.cc(359)] UncheckedAllocate
+[0809/115728.039:ERROR:settings.cc(320)] Settings magic is not 1129342067

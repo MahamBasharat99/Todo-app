@@ -1,0 +1,185 @@
+#divimg{
+    width: 1000px;
+     height: 640px; 
+    background-image: url("images/d3.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    /* \\cover */
+     background-position: center center;
+    /* background-attachment: fixed; */
+    text-align: center;  
+}
+@media screen and (max-width: 992px) {
+    #divimg{
+        width: 900px;
+         height: 600px; 
+        background-image: url("images/d3.jpg");
+        background-repeat:no-repeat;
+        background-size:100% 100%;
+        /* \\cover */
+         background-position: center center;
+        /* background-attachment: fixed; */
+        text-align: center;  
+    }
+  }
+  @media screen and (max-width: 435px) {
+    #divimg{
+        width: 300px !important;
+         height: 500px; 
+     
+    }
+    #inputVal{
+        width: 250px !important;
+        font-size: 14px !important;
+        border-radius: 30px;
+        }
+        ul{
+            font-size: 8px !important;
+        }
+        .btn{
+            width: 40px !important;
+            height: 25px !important;
+            font-size: 9px !important;
+            margin:0px auto !important
+        }
+        .divbtn{
+        
+            margin:-25px 1px 0px 1px !important;
+        }
+     
+  }
+@media screen and (max-width: 580px) {
+    #divimg{
+        width: 400px;
+         height: 500px; 
+        background-image: url("images/d3.jpg");
+        background-repeat:no-repeat;
+        background-size:100% 100%;
+        /* \\cover */
+         background-position: center center;
+        /* background-attachment: fixed; */
+        text-align: center;  
+    }
+  }
+@media screen and (max-width: 700px) {
+ li{
+     font-size: 20px !important;
+ }
+  }
+#table{
+    border:5px solid green;
+    width: 600px;
+    height: 580px; 
+
+}
+#bgimg{
+    background-image: url("images/bg.jpg");
+}
+#inputVal{
+width: 350px;
+font-size: x-large;
+border-radius: 20px;
+}
+@media screen and (max-width: 560px) {
+    #inputVal{
+        width: 300px;
+        font-size: 20px !important;
+        border-radius: 30px;
+        }
+        li{
+            font-size: 18px !important;
+        }
+     }
+#list{
+    list-style-type: upper-roman;
+    color: red;
+    font-size: small;
+background-color: white;
+border-radius: 30px;
+border: 1px solid purple;
+}
+    .btn{
+background-color: black;
+color: white;
+border-radius: 30px;
+height: 35px;
+width: 60px;font-size: 15px;
+margin: 1px 2px 1px 2px;
+
+
+    }
+.bottomimg{
+    width:200px;
+    height: 200px;
+    margin: 0px auto;
+    margin-left: 12px;
+}
+@media screen and (max-width: 756px) {
+   .bottomimg{
+
+        width:110px !important;
+        height: 120px;
+        margin: 0px auto;
+       
+   }
+   
+     }
+@media screen and (max-width: 322px) {
+   .bottomimg{
+    margin-left: 10px;
+   }
+   #inputVal{
+    font-size: 14px !important;
+    
+    }
+    li{height: 25px;
+        font-size: 12px !important;
+        width:220px !important
+    }
+    .majorbtn{
+        width: 80px;
+        height: 30px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .divbtn{
+        margin: -20px 0px 0px 0px !important;
+    }
+    #list{
+        list-style-type: upper-roman;
+        color: red;
+        font-size: 8px !important;
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid purple;
+   
+    }
+    .header{
+        font-size: 30px !important;
+        padding-top: 10px !important;
+        margin-top: 10px !important;
+    }
+ }
+     
+@media screen and (max-width: 580px) {
+   .bottomimg{
+       width: 200px;
+    margin-left: 15px;
+    margin:2px 2px 2px 15px
+   }
+   .header{
+       font-size: 30px !important;
+       margin-top: 5px;
+   }
+     }
+.divbtn{
+    text-align: end;
+    margin: -30px 20px 0px 5px;
+}
+
+@media screen and (max-width: 485px) {
+    .bottomimg{
+     width:150px;
+     height: 130px;
+    }
+      }
